@@ -1,2 +1,3 @@
 # My1st_Notebook
-My first attempt at Githum
+My first attempt at Github
+Markdown practice
